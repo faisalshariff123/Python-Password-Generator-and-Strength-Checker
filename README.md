@@ -21,11 +21,11 @@ This project is a simple password generator and strength checker built with Pyth
    git clone https://github.com/your-username/Password-Generator.git
 2. Navigate to the project directory:
    ```bash
-    cd Password-Generator
+   cd Password-Generator
 
 3. Run the Python script:
     ```bash
-    python3 Password-Generator.py
+   python3 Password-Generator.py
 
 4. Follow the on-screen instructions in the GUI to generate a password and check its strength
 
